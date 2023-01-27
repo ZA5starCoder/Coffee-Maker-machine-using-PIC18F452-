@@ -1,0 +1,77 @@
+MPLINK 4.48, Linker
+Linker Map File - Created Mon Jan 09 16:03:21 2023
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .cinit    romdata   0x000000    program   0x000002
+                   .org_0       code   0x00002a    program   0x000e1c
+.config_300001_SYED PROJECT.O    romdata   0x300001    program   0x000001
+.config_300002_SYED PROJECT.O    romdata   0x300002    program   0x000001
+.config_300003_SYED PROJECT.O    romdata   0x300003    program   0x000001
+.config_300006_SYED PROJECT.O    romdata   0x300006    program   0x000001
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000001      
+                            0x00002a    0x000e45      
+                            0x300001    0x300003      
+                            0x300006    0x300006      
+            3618 out of 33048 program addresses used, program memory utilization is 10%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                      ABC   0x000602    program     static C:\Users\Admin\Desktop\Cooffe maker project\syed project.asm
+                       AC   0x00061a    program     static C:\Users\Admin\Desktop\Cooffe maker project\syed project.asm
+                    AGAIN   0x0005ea    program     static C:\Users\Admin\Desktop\Cooffe maker project\syed project.asm
+                    COMRT   0x0005ba    program     static C:\Users\Admin\Desktop\Cooffe maker project\syed project.asm
+                      CUP   0x0006b8    program     static C:\Users\Admin\Desktop\Cooffe maker project\syed project.asm
+                  DATAWRT   0x0005ca    program     static C:\Users\Admin\Desktop\Cooffe maker project\syed project.asm
+                    DELAY   0x0005f2    program     static C:\Users\Admin\Desktop\Cooffe maker project\syed project.asm
+                 GREENTEA   0x0004d8    program     static C:\Users\Admin\Desktop\Cooffe maker project\syed project.asm
+                   HASNAT   0x000e16    program     static C:\Users\Admin\Desktop\Cooffe maker project\syed project.asm
+                       LO   0x000e3e    program     static C:\Users\Admin\Desktop\Cooffe maker project\syed project.asm
+                LONGDELAY   0x0005da    program     static C:\Users\Admin\Desktop\Cooffe maker project\syed project.asm
+                   POWDER   0x0009e6    program     static C:\Users\Admin\Desktop\Cooffe maker project\syed project.asm
+                   REPEAT   0x000328    program     static C:\Users\Admin\Desktop\Cooffe maker project\syed project.asm
+                   SDELAY   0x00060a    program     static C:\Users\Admin\Desktop\Cooffe maker project\syed project.asm
+                    START   0x000224    program     static C:\Users\Admin\Desktop\Cooffe maker project\syed project.asm
+                    SUGAR   0x000bae    program     static C:\Users\Admin\Desktop\Cooffe maker project\syed project.asm
+                    WATER   0x000828    program     static C:\Users\Admin\Desktop\Cooffe maker project\syed project.asm
+                       WW   0x000e26    program     static C:\Users\Admin\Desktop\Cooffe maker project\syed project.asm
+                 YOURFUNC   0x000622    program     static C:\Users\Admin\Desktop\Cooffe maker project\syed project.asm
+                    ZULFI   0x000e2e    program     static C:\Users\Admin\Desktop\Cooffe maker project\syed project.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    START   0x000224    program     static C:\Users\Admin\Desktop\Cooffe maker project\syed project.asm
+                   REPEAT   0x000328    program     static C:\Users\Admin\Desktop\Cooffe maker project\syed project.asm
+                 GREENTEA   0x0004d8    program     static C:\Users\Admin\Desktop\Cooffe maker project\syed project.asm
+                    COMRT   0x0005ba    program     static C:\Users\Admin\Desktop\Cooffe maker project\syed project.asm
+                  DATAWRT   0x0005ca    program     static C:\Users\Admin\Desktop\Cooffe maker project\syed project.asm
+                LONGDELAY   0x0005da    program     static C:\Users\Admin\Desktop\Cooffe maker project\syed project.asm
+                    AGAIN   0x0005ea    program     static C:\Users\Admin\Desktop\Cooffe maker project\syed project.asm
+                    DELAY   0x0005f2    program     static C:\Users\Admin\Desktop\Cooffe maker project\syed project.asm
+                      ABC   0x000602    program     static C:\Users\Admin\Desktop\Cooffe maker project\syed project.asm
+                   SDELAY   0x00060a    program     static C:\Users\Admin\Desktop\Cooffe maker project\syed project.asm
+                       AC   0x00061a    program     static C:\Users\Admin\Desktop\Cooffe maker project\syed project.asm
+                 YOURFUNC   0x000622    program     static C:\Users\Admin\Desktop\Cooffe maker project\syed project.asm
+                      CUP   0x0006b8    program     static C:\Users\Admin\Desktop\Cooffe maker project\syed project.asm
+                    WATER   0x000828    program     static C:\Users\Admin\Desktop\Cooffe maker project\syed project.asm
+                   POWDER   0x0009e6    program     static C:\Users\Admin\Desktop\Cooffe maker project\syed project.asm
+                    SUGAR   0x000bae    program     static C:\Users\Admin\Desktop\Cooffe maker project\syed project.asm
+                   HASNAT   0x000e16    program     static C:\Users\Admin\Desktop\Cooffe maker project\syed project.asm
+                       WW   0x000e26    program     static C:\Users\Admin\Desktop\Cooffe maker project\syed project.asm
+                    ZULFI   0x000e2e    program     static C:\Users\Admin\Desktop\Cooffe maker project\syed project.asm
+                       LO   0x000e3e    program     static C:\Users\Admin\Desktop\Cooffe maker project\syed project.asm
+
+
